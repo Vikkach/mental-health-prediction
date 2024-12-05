@@ -1,8 +1,8 @@
-# Predicting Depression Levels
+# Exploring Mental Health Data
 
 ## Project Overview
 
-This project aims to predict depression levels using supervised machine learning techniques. The dataset used is generated from a deep learning model trained on the [Depression Survey/Dataset for Analysis dataset](https://www.kaggle.com/datasets/sumansharmadataworld/depression-surveydataset-for-analysis) and explores factors like sleep duration, dietary habits, academic pressure, etc. to identify depression indicators.
+This project aims to predict depression using supervised machine learning techniques. The dataset used is generated from a deep learning model trained on the [Depression Survey/Dataset for Analysis dataset](https://www.kaggle.com/datasets/sumansharmadataworld/depression-surveydataset-for-analysis) and explores factors like sleep duration, dietary habits, academic pressure, etc. to identify depression indicators.
 
 ## Dataset
 
@@ -40,7 +40,7 @@ The following preprocessing steps are applied to the dataset:
 
 ## Conclusion
 
-This project demonstrates the potential of machine learning to predict depression levels based on survey data. It highlights important factors that could contribute to depression.
+This project demonstrates the potential of machine learning to predict depression based on survey data. It highlights important factors that could contribute to depression.
 
 ## Usage
 
